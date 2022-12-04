@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Small World", "Small World\Small World.csproj", "{DC560626-CC2D-41D2-9651-DE392DDA21EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC560626-CC2D-41D2-9651-DE392DDA21EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC560626-CC2D-41D2-9651-DE392DDA21EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC560626-CC2D-41D2-9651-DE392DDA21EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC560626-CC2D-41D2-9651-DE392DDA21EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E998EA-BDEF-47C3-87C6-0071842E0FA3}
+	EndGlobalSection
+EndGlobal
